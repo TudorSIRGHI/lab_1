@@ -1,0 +1,3 @@
+C:/Users/valer/CLionProjects/OOp Lab1 - Tudor Sirghi/cmake-build-debug/CMakeFiles/OOp_Lab1___Tudor_Sirghi.dir
+C:/Users/valer/CLionProjects/OOp Lab1 - Tudor Sirghi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valer/CLionProjects/OOp Lab1 - Tudor Sirghi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
